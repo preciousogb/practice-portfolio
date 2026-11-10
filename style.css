@@ -616,6 +616,9 @@ footer a:hover {
         background-color: white;
         transition: 2s;
     }
+    .close {
+        display: block;
+    }
 
 
     .main {
