@@ -649,7 +649,13 @@ footer a:hover {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
     }
+ .aside .ul .li {
+        font-size: .7rem;
+    }
 
+    .aside .icons {
+        font-size: .8rem;
+    }
     .email,
     .phone,
     .location {
@@ -719,3 +725,4 @@ footer a:hover {
     }
 
 }
+
